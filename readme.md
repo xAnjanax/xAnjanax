@@ -16,7 +16,7 @@ I have recently begun to explore programming beyond what I'm learning in my acad
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <!-- <img height = "18" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  -->
 
-### Here are some projects that are listed under my repositories: 
+### Here are some recent projects that I have worked on: 
 
 ✨ https://github.com/xAnjanax/Guess-the-Number-Game 
 
