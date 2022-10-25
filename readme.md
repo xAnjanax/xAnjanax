@@ -2,8 +2,9 @@
 
 <img src="https://media.tenor.com/_JMsG3-7YXUAAAAM/excited-happy.gif" alt = "hello"> 
 
-## About me ^_^ 
-Thank you for visiting my page. My name is Anjana; I'm a second year student currently pursuing my Computer Science and Engineering degree. 
+## A little about me: 
+Thank you for visiting my page. 
+My name is Anjana; I'm a second year student currently pursuing my Computer Science and Engineering degree. 
 
 I have recently begun to explore programming beyond what I'm learning in my academics through learning from courses on udemy, coursera, and youtube tutorials as well. Although my knowledge is currently mostly limited to the basics, the following are the languages that I am working on and learning more about at the moment: 
 
