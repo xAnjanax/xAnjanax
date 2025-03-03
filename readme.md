@@ -4,9 +4,9 @@
 
 ## A little about me: 
 Thank you for visiting my page. 
-My name is Anjana; I'm a second year student currently pursuing my Computer Science and Engineering degree. 
+My name is Anjana; I'm a final-year student currently pursuing my Computer Science degree. 
 
-I have recently begun to explore programming beyond what I'm learning in my academics through learning from courses on udemy, coursera, and youtube tutorials as well. Although my knowledge is currently mostly limited to the basics, the following are the languages that I am working on and learning more about at the moment: 
+I have recently begun to explore programming beyond what I'm learning in my academics through learning from courses on udemy, coursera, and youtube tutorials as well. My knowledge is currently expanding from basics to more advanced concepts, and the following are the languages that I am learning and working on: 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
@@ -16,7 +16,7 @@ I have recently begun to explore programming beyond what I'm learning in my acad
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <!-- <img height = "18" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  -->
 
-### Here are some recent projects that I have worked on: 
+### Here are some projects that I have worked on: 
 
 ✨ https://github.com/xAnjanax/Guess-the-Number-Game 
 
