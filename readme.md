@@ -18,7 +18,7 @@
 <div align="center">
  <a href="http://www.linkedin.com/in/anjana-gnanaseelan" target="_blank">  
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
- <a href="https://www.google.com" target="_blank"> 
+ <a href="https://sites.google.com/view/anjanagnanaseelan?usp=sharing" target="_blank"> 
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"/>
 </a> 
 
@@ -52,13 +52,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="tableau logo"  />
+
+  <br> 
+  <br> 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" /> 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> 
 
+  <br>
+  <br> 
+  
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" alt="html logo"  /> 
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" alt="css logo" /> 
@@ -70,9 +78,13 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height="40" alt="cpp logo" /> 
   
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="40" alt="java logo" /> 
-  <!--  <img src="" height="40" alt="css logo" /> 
-    <img src="" height="40" alt="css logo" /> 
-    <img src="" height="40" alt="css logo" /> --> 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+
+<!--  <img src="" height="40" alt="x logo" /> 
+    <img src="" height="40" alt="x logo" /> 
+    <img src="" height="40" alt="x logo" /> --> 
+
 </div>
 
 ###
